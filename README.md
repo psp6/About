@@ -1,2 +1,1 @@
-# About
-Description of this hub - repository
+ might have some personal stuff 
